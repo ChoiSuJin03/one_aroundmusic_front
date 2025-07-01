@@ -78,15 +78,26 @@ AR 기술을 활용해 사용자가 음악을 공유하고, 다른 사람들과 
 ## 실행 방법
 
 ```bash
-git clone https://github.com/ChoiSuJin03/one_aroundmusic_front.git
-cd one_aroundmusic_front
+### node version
+v14.21.3
 
-npm install
-# 또는
-yarn install
+### npm version
+v6.14.18
 
-# iOS 시뮬레이터 실행
-npx react-native run-ios
+### java version
+jdk 11버전
 
-# Android 시뮬레이터 실행
-npx react-native run-android
+---
+
+### 패키지 다운로드
+
+```
+$ npm install
+```
+
+### Android 실행
+
+```
+$ npm run android
+```
+
