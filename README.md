@@ -2,8 +2,6 @@
 
 React Native를 활용한 AR 음악 공유 플랫폼의 프론트엔드 앱입니다.
 
-[![Play Store 빌드](images/playstore_badge.png)](#) • [![App Store](images/appstore_badge.png)](#)
-
 ---
 
 ## 📖 프로젝트 소개
@@ -34,37 +32,11 @@ AR 기술을 활용해 사용자가 음악을 공유하고, 다른 사람들과 
 
 ### 2. 홈 피드 화면
 
-![홈 화면](images/feed_screen.png)
-
-📌 피드에서 친구의 음악과 반응을 확인할 수 있는 화면입니다.
-
----
-
-### 3. 음악 업로드 폼
-
-![업로드 화면](images/upload_screen.png)
-
-📌 파일 선택, 제목·설명 입력 폼이 포함된 화면을 캡처하세요.
-
----
-
-### 4. 댓글/좋아요 화면
+![홈 화면](im성 화면
 
 ![댓글 및 좋아요 화면](images/interactions.png)
 
 📌 AR 위 플레이 버튼 아래에 댓글과 좋아요 버튼이 나오는 화면을 담으세요.
-
----
-
-## 🛠 기술 스택
-
-| 영역     | 사용 기술 |
-|----------|-----------|
-| 앱 프레임워크 | React Native |
-| AR       | AR Foundation 또는 Viro React |
-| 네트워크 | Axios (REST API 호출) |
-| 상태 관리 | Redux / Context API |
-| UI 구성 | React Navigation, NativeBase (또는 React Native Paper 등) |
 
 ---
 
