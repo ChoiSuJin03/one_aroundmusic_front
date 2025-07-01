@@ -75,7 +75,7 @@ AR 기술을 활용해 사용자가 음악을 공유하고, 다른 사람들과 
 
 ---
 
-## 🏁 실행 방법
+## 실행 방법
 
 ```bash
 git clone https://github.com/ChoiSuJin03/one_aroundmusic_front.git
